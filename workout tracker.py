@@ -2,10 +2,10 @@ import requests
 from datetime import datetime
 import os
 
-GENDER = "male"
-WEIGHT = 70
-HEIGHT = 182
-AGE = 26
+GENDER = YOUR GENDER 
+WEIGHT = YOUR WEIGHT IN KG
+HEIGHT = YOUR HEIGHT IN CM
+AGE = YOUR AGE
 
 APP_ID = os.environ.get("APP_ID")
 APP_KEY = os.environ.get("APP_KEY")
